@@ -12,7 +12,7 @@
             "value": "West Europe"
         },
         "hostingPlanName": {
-            "value": "ASP-asthmacloudproject-9212"
+            "value": "ASP-asthmacloudproject-af8a"
         },
         "serverFarmResourceGroup": {
             "value": "asthma-cloud-project"
@@ -35,8 +35,14 @@
         "numberOfWorkers": {
             "value": "1"
         },
-        "linuxFxVersion": {
-            "value": "NODE|12-lts"
+        "currentStack": {
+            "value": "node"
+        },
+        "phpVersion": {
+            "value": "OFF"
+        },
+        "nodeVersion": {
+            "value": "12.13.0"
         }
     }
 }
